@@ -1,9 +1,18 @@
 # Explorando a Biodiversidade de Pinguins na Antártica: Análise das Características Físicas e Mudanças de 2007 a 2009
 
 
-![image-cover.png](assets/image/image-cover.png)
+
+    <div>
+
+        <img src="assets/image/image-cover.png" alt="Biodiversidade e Mudanças de Pinguins na Antár">
     
     
+    </div>
+
+    <p align= "center">
+
+        ![image-cover.png](assets/image/image-cover.png)
+    </p>
 
 
 Este projeto visa explorar e analisar as características físicas de três espécies de pinguins da região de Palmer (Chinstrap, Gentoo, Adélie), na Antártica, utilizando o conjunto de dados "palmerpenguins". O foco está em examinar variáveis como comprimento e profundidade do bico, comprimento da nadadeira, massa corporal, além de aspectos geográficos e temporais, como a ilha de origem e o ano de observação. A análise busca identificar padrões físicos entre as espécies, explorar relações entre as variáveis, e investigar possíveis mudanças nas características dos pinguins entre os anos de 2007 a 2009.
