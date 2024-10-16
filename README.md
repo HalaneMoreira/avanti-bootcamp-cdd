@@ -2,11 +2,11 @@
 
 
 
-    <div align= "center">
+    <p align= "center">
 
         ![image-cover.png](assets/image/image-cover.png)
     
-    </div>
+    </p>
 
 
 
