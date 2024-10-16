@@ -1,0 +1,9 @@
+variavel,descricao,tipo,subtipo
+species,"Espécie do pinguim (Adelie, Chinstrap, Gentoo)",qualitativa,nominal
+island,"Ilha onde o pinguim foi encontrado (Biscoe, Dream ou Torgersen)",qualitativa,nominal
+bill_length_mm,Comprimento do bico em milímetros,quantitativa,contínua
+bill_depth_mm,Profundidade do bico em milímetros,quantitativa,contínua
+flipper_length_mm,Comprimento da nadadeira em milímetros,quantitativa,contínua
+body_mass_g,Massa corporal em gramas,quantitativa,contínua
+sex,Sexo do pinguim (Masculino ou Feminino),qualitativa,nominal
+year,Ano em que os dados foram coletados,quantitativa,discreta
