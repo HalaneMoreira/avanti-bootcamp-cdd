@@ -1,7 +1,7 @@
 # Explorando a Biodiversidade de Pinguins na Antártica: Análise das Características Físicas e Mudanças de 2007 a 2009
 
 
-    ![image_1.pdf](assets/image/image_1.pdf)
+![image_1.pdf](assets/image/image_1.pdf)
     
     
 
