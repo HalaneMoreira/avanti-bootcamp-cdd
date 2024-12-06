@@ -14,11 +14,6 @@ Este projeto visa explorar e analisar as características físicas de três esp�
 ## Justificativa
 Estudos sobre a fauna polar, incluindo pinguins, são essenciais para entender o impacto das mudanças climáticas e das atividades humanas em ecossistemas sensíveis. A análise das características físicas dos pinguins ao longo dos anos pode revelar informações importantes sobre adaptações biológicas e a saúde das populações de pinguins em resposta a mudanças ambientais. Este projeto busca não apenas caracterizar as espécies, mas também contribuir para a compreensão das possíveis transformações no habitat antártico, informando estratégias de preservação e fornecendo dados relevantes para futuras pesquisas ambientais e biológicas.
 
-Neste projeto, vamos abordar as questões como:
-
-- Quais fatores mais influenciam o consumo de combustível de um carro?
-- Como podemos usar esses fatores para prever com precisão o consumo de novos modelos de veículos?
-- Existe uma tendência observável na melhoria do consumo de combustível ao longo dos anos?
 
 ## Metodologia
 O projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os seguintes passos:
